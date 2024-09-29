@@ -11,17 +11,6 @@ https://github.com/user-attachments/assets/d22cf525-398f-4249-9599-a438888fba15
 
 
 
-**Screenshots:**
-Snippet of UI:
-![UI single JD Matched - openai](https://github.com/user-attachments/assets/97690b21-40e8-400a-a020-6554fdd2d137)
-
-Snippet of Multiple JD Approach:
-![UI Multiple JD Match](https://github.com/user-attachments/assets/ae248307-2855-4dd5-95f9-37c7dc830c84)
-
-Snippet of ML Approach:
-![UI ML Approach - Resume Not Matched](https://github.com/user-attachments/assets/5899fdfd-fd6e-4e4a-a666-0dce63ae1006)
-
-
 **Steps:**
 Data extraction, cleaning, and normalization.
 Integration of first approach i.e. OpenAI and Qdrant for AI-driven matching.
@@ -54,5 +43,18 @@ Using Qdrant Cloud or Google Colab:
 Directly Navigate through Qdrant Dashboard Components 
 Get Qdrant API Key and paste in Colab
 Directly Run Colab code cells for deployment (Step c for ML approach)
+
+**Screenshots:**
+Snippet of UI:
+![UI single JD Matched - openai](https://github.com/user-attachments/assets/97690b21-40e8-400a-a020-6554fdd2d137)
+
+Snippet of Multiple JD Approach:
+![UI Multiple JD Match](https://github.com/user-attachments/assets/ae248307-2855-4dd5-95f9-37c7dc830c84)
+
+Snippet of ML Approach:
+![UI ML Approach - Resume Not Matched](https://github.com/user-attachments/assets/5899fdfd-fd6e-4e4a-a666-0dce63ae1006)
+
+
+
 
 
