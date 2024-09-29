@@ -4,6 +4,9 @@ The AI Resume Matchmaker project is designed to develop a cutting-edge AI model 
 **Objectives:**
 The primary objective of this project is to create a highly accurate and transparent AI-driven system that can extract and analyze key information from resumes and JDs. The model focuses on identifying critical skills, experiences, and qualifications, providing recruiters with a streamlined tool to improve hiring decisions and enhance candidate sourcing.
 
+**Video:**
+https://github.com/user-attachments/assets/451ce49b-d2ce-4838-8eb1-bb27b8531f97
+
 **Screenshots:**
 Snippet of UI:
 ![UI single JD Matched - openai](https://github.com/user-attachments/assets/97690b21-40e8-400a-a020-6554fdd2d137)
