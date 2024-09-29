@@ -50,3 +50,9 @@ Using Qdrant Cloud or Google Colab:
 Directly Navigate through Qdrant Dashboard Components 
 Get Qdrant API Key and paste in Colab
 Directly Run Colab code cells for deployment (Step c for ML approach)
+
+
+
+https://github.com/user-attachments/assets/cd036aa4-c45b-4b99-9c97-6cfa8cb5cd42
+
+
