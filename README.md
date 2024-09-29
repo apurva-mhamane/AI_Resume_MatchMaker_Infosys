@@ -5,7 +5,11 @@ The AI Resume Matchmaker project is designed to develop a cutting-edge AI model 
 The primary objective of this project is to create a highly accurate and transparent AI-driven system that can extract and analyze key information from resumes and JDs. The model focuses on identifying critical skills, experiences, and qualifications, providing recruiters with a streamlined tool to improve hiring decisions and enhance candidate sourcing.
 
 **Video:**
-https://github.com/user-attachments/assets/451ce49b-d2ce-4838-8eb1-bb27b8531f97
+
+
+https://github.com/user-attachments/assets/d22cf525-398f-4249-9599-a438888fba15
+
+
 
 **Screenshots:**
 Snippet of UI:
@@ -50,9 +54,5 @@ Using Qdrant Cloud or Google Colab:
 Directly Navigate through Qdrant Dashboard Components 
 Get Qdrant API Key and paste in Colab
 Directly Run Colab code cells for deployment (Step c for ML approach)
-
-
-
-https://github.com/user-attachments/assets/cd036aa4-c45b-4b99-9c97-6cfa8cb5cd42
 
 
